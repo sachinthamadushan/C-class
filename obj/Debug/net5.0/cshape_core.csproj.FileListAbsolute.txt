@@ -1,0 +1,16 @@
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core.deps.json
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core.runtimeconfig.json
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core.runtimeconfig.dev.json
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core.dll
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/ref/cshape_core.dll
+/home/sachintha/ලිපි/C#/cshape_core/bin/Debug/net5.0/cshape_core.pdb
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.csproj.AssemblyReference.cache
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.GeneratedMSBuildEditorConfig.editorconfig
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.AssemblyInfoInputs.cache
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.AssemblyInfo.cs
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.csproj.CoreCompileInputs.cache
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.dll
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/ref/cshape_core.dll
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.pdb
+/home/sachintha/ලිපි/C#/cshape_core/obj/Debug/net5.0/cshape_core.genruntimeconfig.cache
