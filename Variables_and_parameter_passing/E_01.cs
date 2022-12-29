@@ -2,10 +2,10 @@ using System;
 
 namespace Apple
 {
-    class Iphone
+    class Iphone14
     {
         static string model = "14 Pro Max";
-        static double price = "250000";
+        static double price = 250000;
         
         static void Main(string[] args){
             System.Console.WriteLine(model);
