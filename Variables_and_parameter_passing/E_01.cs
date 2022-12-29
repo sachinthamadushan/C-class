@@ -8,7 +8,7 @@ namespace Apple
         static double price = 250000;
         
         static void Main(string[] args){
-            System.Console.WriteLine(model);
+            System.Console.WriteLine(Iphone14.model);
             System.Console.WriteLine("Price:"+price);
         }
     }
