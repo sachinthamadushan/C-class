@@ -1,0 +1,15 @@
+C:\Users\Ewis\Documents\C-class\bin\Debug\net6.0\cshape_core.exe
+C:\Users\Ewis\Documents\C-class\bin\Debug\net6.0\cshape_core.deps.json
+C:\Users\Ewis\Documents\C-class\bin\Debug\net6.0\cshape_core.runtimeconfig.json
+C:\Users\Ewis\Documents\C-class\bin\Debug\net6.0\cshape_core.dll
+C:\Users\Ewis\Documents\C-class\bin\Debug\net6.0\cshape_core.pdb
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.csproj.AssemblyReference.cache
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.AssemblyInfoInputs.cache
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.AssemblyInfo.cs
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.csproj.CoreCompileInputs.cache
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.dll
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\refint\cshape_core.dll
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.pdb
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\cshape_core.genruntimeconfig.cache
+C:\Users\Ewis\Documents\C-class\obj\Debug\net6.0\ref\cshape_core.dll
