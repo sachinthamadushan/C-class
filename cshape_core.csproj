@@ -3,6 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
-     <StartupObject>Apple_1.Iphone</StartupObject>
+     <StartupObject>Apple_2.Employee</StartupObject>
   </PropertyGroup>
 </Project>

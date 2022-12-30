@@ -1,16 +1,19 @@
-using System;
-
-namespace Apple_1
+namespace Apple_2
 {
-    internal class NewBaseType
+    class Employee
     {
-        
-    }
-
-    class Iphone : NewBaseType
-    {
-      static void Main(string[] args) {
-        
-      }
-    }
+        static void Main(string[] args)
+        {
+            int number = 10;
+            string name = "Suresh Dasari";
+            double percentage = 10.23;
+            char gender = 'M';
+            bool isVerified = true;	
+            System.Console.WriteLine(number);
+            System.Console.WriteLine(percentage);
+            System.Console.WriteLine(name);
+            System.Console.WriteLine(isVerified);
+            System.Console.WriteLine(gender);
+       }
+   }
 }
