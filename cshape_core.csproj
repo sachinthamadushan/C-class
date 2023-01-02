@@ -1,8 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-     <StartupObject>Apple.Iphone11</StartupObject>
+     <StartupObject>Apple.Iphone12</StartupObject>
   </PropertyGroup>
 </Project>
