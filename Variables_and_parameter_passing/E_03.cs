@@ -20,7 +20,7 @@ namespace Apple
         }
 
         static void changePrice(double price){
-            price = 180000;
+            price = 180000.0;
             System.Console.WriteLine(price);
             checkCamera("Mega pixel 24");
         }
