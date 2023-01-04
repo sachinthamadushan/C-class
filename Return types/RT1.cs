@@ -5,8 +5,10 @@ namespace AppleRT1
     class RT1
     {
         static void Main(string[] args){
-            makeCamera();
-            getModel();
+            int x = makeCamera();
+            string y = getModel();
+            System.Console.WriteLine(x);
+            System.Console.WriteLine(y);
         }
 
         static int makeCamera(){
