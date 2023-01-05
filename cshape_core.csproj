@@ -2,6 +2,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-     <StartupObject>RTC3.RT3</StartupObject>
+     <StartupObject>RTC5.PizzaHut</StartupObject>
   </PropertyGroup>
 </Project>
