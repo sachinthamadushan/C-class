@@ -1,6 +1,6 @@
 class A
 {
-    int x = 10;
+    static int x = 30;
 
     static void Main(string[] args){
     A a = new A();
