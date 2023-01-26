@@ -1,10 +1,14 @@
 class DT4
 {
     public static void Main(){
-         int x = 10, y = 20, q = 90;
+        dynamic x = 10;
+	    System.Console.WriteLine(x);
+	    x = "Sri Lanka";
         System.Console.WriteLine(x);
-        System.Console.WriteLine(y);
-        System.Console.WriteLine(q);
+	    x = 15.45;
+        System.Console.WriteLine(x);
+	    x = true;
+        System.Console.WriteLine(x);
     }
 }
 

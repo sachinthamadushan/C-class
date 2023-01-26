@@ -2,6 +2,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-     <StartupObject>A</StartupObject>
+     <StartupObject>CON5</StartupObject>
   </PropertyGroup>
 </Project>
