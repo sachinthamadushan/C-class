@@ -2,6 +2,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-     <StartupObject>INH5</StartupObject>
+     <StartupObject>INH7</StartupObject>
   </PropertyGroup>
 </Project>
